@@ -1,5 +1,5 @@
 ## Projet devops en images
-#### [README.md](DevOps_Project/README.md)
+#### [README.md](README.md)
 #### 1. Web application (+ connection à la base de données MySQL)
 
 ![étape 1](https://github.com/mohamedaminekrim/DevOps_Project/blob/main/ANNEX/images/travail1.png?raw=true)

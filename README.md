@@ -13,3 +13,7 @@ Travail effectué avec Node.js (stockage des données via MySQL)
 	npm start
 #### Test
 	npm run test
+### 2. Build Docker Image
+	docker build -t app-devops-image .
+### 3. docker compose
+	docker-compose up

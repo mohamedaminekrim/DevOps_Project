@@ -4,5 +4,5 @@ Creation d'une web application Node.js. Stockage des données dans MySQL. Test e
 ## Projet en images
 [Aperçu](ANNEX/ANNEXE.md)
 
-#### Recopier le répertoire
-	This is a subscript text
+#### Recopier le répertoire (https)
+	https://github.com/mohamedaminekrim/DevOps_Project.git
